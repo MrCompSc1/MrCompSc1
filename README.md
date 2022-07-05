@@ -1,4 +1,4 @@
-#Hi, I’m Stuart Davison
+👋 <h2>Hi, I’m Stuart Davison<h2>
 
 👀 I am currently Head of Computing and interested on building on my 20 years of experience with new programming projects<br>
 🌱 I’m currently learning Javascript but have experience with Python, C#, MSSQL, VB<br>
